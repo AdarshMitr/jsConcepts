@@ -1,0 +1,36 @@
+*{
+   padding:0;
+   margin:0;
+}
+
+h1 {
+   color: rgb(17, 100, 226)
+}
+
+;
+
+body {
+   background-color: aquamarine;
+   border: 5px;
+   border-color: #f57208;
+  
+
+}
+
+#show {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   background-color: rgba(35, 83, 216, 0.288);
+   width: 100%;
+   padding: 10px;
+   height: 300px;
+   
+   font-size: 25px;
+   font-family: 'Trebuchet MS';
+   
+
+   
+
+
+}
